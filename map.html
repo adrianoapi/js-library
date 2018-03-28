@@ -3,27 +3,9 @@
   <head>
     <meta charset="UTF-8" />
       <title>JS MAP</title>
+      <script src="Array.from.js"></script>
   </head>
   <body>
     <div id="app"></div>
-    <script>
-    var myApp     = new Map();
-    var keyString = "minha string",
-        keyObj    = {},
-        keyFunc   = function(){};
-    
-    myApp.set(keyString, "Valor associado a 'uma string'");
-    myApp.set(keyObj,    "Valor associado a um objto"    );
-    myApp.set(keyFunc,   "Valor associado a uma funcao"  );
-    
-    console.log(myApp.size);
-    
-    console.log(myApp.get(keyString));
-    console.log(myApp.get(keyObj));
-    console.log(myApp.get(keyFunc));
-    
-    console.log(myApp.get("uma string"));
-    
-    </script>
   </body>
 </html>
