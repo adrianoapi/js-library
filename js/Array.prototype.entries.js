@@ -5,6 +5,7 @@
 
 var arr  = ['a', 'b', 'c'];
 var eArr = arr.entries();
+var fArr = arr.entries();
 
 console.log(eArr.next().value);
 //[0, "a"]
@@ -14,3 +15,10 @@ console.log(eArr.next().value);
 
 console.log(eArr.next().value);
 //[2, "c"]
+
+for (let e of fArr) {
+  console.log(e);
+}
+// [0, 'a']
+// [1, 'b']
+// [2, 'c']
