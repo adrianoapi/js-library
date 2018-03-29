@@ -9,4 +9,5 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects
 [Array.of](js/Array.of.js)
 
 > [Array.Error](js/Error.js)
+
 > [Array.Map](js/Map.js)
