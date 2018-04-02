@@ -1,24 +1,22 @@
 # js-library
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-> [Array                     ](js/Array.js)
+> [Array           ](js/Array.js)
 
-> [Array.concat              ](js/Array.concat.js)
+> [Array.concat    ](js/Array.concat.js)
 
-> [Array.from                ](js/Array.from.js)
+> [Array.from      ](js/Array.from.js)
 
-> [Array.of                  ](js/Array.of.js)
+> [Array.of        ](js/Array.of.js)
 
-> [Array.prototype.copyWithin](js/Array.prototype.copyWithin.js)
+> [Array.copyWithin](js/Array.copyWithin.js)
 
-> [Array.prototype.entries   ](js/Array.prototype.entries.js)
+> [Array.entries   ](js/Array.entries.js)
 
-> [Array.Error               ](js/Error.js)
+> [Error           ](js/Error.js)
 
-> [Array.Map                 ](js/Map.js)
+> [Array.map       ](js/Array.map.js)
 
-> [Error                     ](js/Error.js)
+> [Every           ](js/Every.js)
 
-> [Every                     ](js/Every.js)
-
-> [Object.prototype          ](js/Object.prototype.js)
+> [Object          ](js/Object.js)
